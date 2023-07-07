@@ -1,6 +1,6 @@
 {
   "name": "bower-art-resolver-n6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forked from original bower-art-resolver. Custom bower-art-resolver for node6 and above",
   "main": "./lib/index.js",
   "directories": {
